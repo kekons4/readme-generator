@@ -16,3 +16,7 @@ a series of questions to build them a professional README file.
 ![Screenshot_two](/Develop/assets/images/screenshot_two.png)
 
 ##### Screen shot of top README
+
+![Screenshot_three](/Develop/assets/images/screenshot_three.png)
+
+##### Screen shot of bottom of README
