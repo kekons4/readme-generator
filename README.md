@@ -7,6 +7,8 @@ This is a OSU Coding bootcamp homework
 This project is a README generator. Powered by node.js it will ask the user
 a series of questions to build them a professional README file.
 
+Link to recording of project: [Screencastify](https://drive.google.com/file/d/1A73ZPOg3VbfSpLCVQxUGCi8YeDsPCbfS/view)
+
 ## Table of Contents
 
 - [Installation](#installation)
