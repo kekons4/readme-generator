@@ -1,11 +1,11 @@
 
-  # ls
+  # Project Test
 
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-    as
+    This is the description of the project. It will generate a professional README
 
   Link to recording of project: [Screencastify](https://drive.google.com/file/d/1A73ZPOg3VbfSpLCVQxUGCi8YeDsPCbfS/view)
 
@@ -20,11 +20,11 @@
 
   ## Installation
 
-    dfas
+    install this project via the github repo
 
   ## Usage
 
-    df
+    to execute this project type: 'node index.js'
 
   
   ## License
@@ -34,21 +34,21 @@
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
 
-  ##Contributing
+  ## Contributing
 
-  fa
+  Keon Pourboghrat : https://github.com/kekons4
 
   ## Testing
 
-    ga
+    all use cases and edge case have passed and project works as expected.
 
   ## Questions
 
     If you have any questions about the projects please contact me at anyone of the ways below.
 
-    Github Username: sg
+    Github Username: kekons4
 
-    Github profile link: https://github.com/sg
+    Github profile link: https://github.com/kekons4
 
-    Email: asd
+    Email: kekons4@gmail.com
       
